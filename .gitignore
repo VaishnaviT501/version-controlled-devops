@@ -1,3 +1,8 @@
+ HEAD
+node_modules/
+.env
+.vscode/
+
 # Node modules
 node_modules/
 
